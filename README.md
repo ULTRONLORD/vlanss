@@ -1,5 +1,8 @@
 # VLAN and Trunking Lab (Cisco Packet Tracer)
 
+![Network Topology](network_topology.png)
+
+
 This is a beginner-friendly Cisco Packet Tracer project focused on understanding the basic concepts of **VLANs** and **trunking** in a network environment.
 
 ## 🔍 Project Overview
