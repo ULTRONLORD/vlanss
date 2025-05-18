@@ -1,5 +1,3 @@
-Here’s your updated `README.md`, reflecting that the router is now up and inter-VLAN communication is functioning:
-
 ---
 
 # VLAN and Trunking Lab (Cisco Packet Tracer)
